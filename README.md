@@ -12,5 +12,5 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=amazonaws)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=japan-da-man&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japan-da-man&layout=compact)
